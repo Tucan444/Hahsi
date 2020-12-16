@@ -1,0 +1,11 @@
+{
+    "difficulty": "easy",
+    "palette": "emerald",
+    "tutorial": true,
+    "easy": false,
+    "medium": false,
+    "hard": false,
+    "extreme": false,
+    "custom": false,
+    "custom_num": "22"
+}

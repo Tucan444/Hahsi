@@ -1,0 +1,239 @@
+{
+    "difficulty": "tutorial",
+    "connections": [
+        {
+            "pos": [
+                0,
+                0
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 1,
+                    "connection": [
+                        3,
+                        0
+                    ]
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                }
+            ],
+            "bridge_occupied": 1,
+            "locked": true
+        },
+        {
+            "pos": [
+                1,
+                0
+            ],
+            "locked": true
+        },
+        {
+            "pos": [
+                1,
+                1
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 2,
+                    "connection": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                }
+            ],
+            "bridge_occupied": 2,
+            "locked": true
+        },
+        {
+            "pos": [
+                1,
+                4
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                }
+            ],
+            "bridge_occupied": 0,
+            "locked": true
+        },
+        {
+            "pos": [
+                2,
+                0
+            ],
+            "locked": true
+        },
+        {
+            "pos": [
+                2,
+                1
+            ],
+            "locked": true
+        },
+        {
+            "pos": [
+                3,
+                0
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 1,
+                    "connection": [
+                        0,
+                        0
+                    ]
+                }
+            ],
+            "bridge_occupied": 1,
+            "locked": true
+        },
+        {
+            "pos": [
+                3,
+                1
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 1,
+                    "connection": [
+                        3,
+                        3
+                    ]
+                },
+                {
+                    "bridge_num": 1,
+                    "connection": [
+                        4,
+                        1
+                    ]
+                },
+                {
+                    "bridge_num": 2,
+                    "connection": [
+                        1,
+                        1
+                    ]
+                }
+            ],
+            "bridge_occupied": 4,
+            "locked": true
+        },
+        {
+            "pos": [
+                3,
+                2
+            ],
+            "locked": true
+        },
+        {
+            "pos": [
+                3,
+                3
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 1,
+                    "connection": [
+                        3,
+                        1
+                    ]
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                }
+            ],
+            "bridge_occupied": 1,
+            "locked": true
+        },
+        {
+            "pos": [
+                4,
+                1
+            ],
+            "bridges": [
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 0,
+                    "connection": null
+                },
+                {
+                    "bridge_num": 1,
+                    "connection": [
+                        3,
+                        1
+                    ]
+                }
+            ],
+            "bridge_occupied": 1,
+            "locked": true
+        }
+    ]
+}
